@@ -1,0 +1,16 @@
+{
+  "_id":{
+    "$oid":"6057d803715bfa5552c523d8"
+  },
+  "codigo":"1234",
+  "tipo_in":"Casa",
+  "precio":20000,
+  "zona":"Central",
+  "mts_qds":30,
+  "hr_sol":14,
+  "no_hab":3,
+  "fech_con":{
+    "$date":"2021-03-21T00:00:00.000Z"
+  },
+  "imagen":"https://postimg.cc/Z0Cp1Q1d"
+}
