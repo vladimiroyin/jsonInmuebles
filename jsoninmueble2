@@ -1,7 +1,7 @@
 [
   {
     "name": "Small Jeans",
-    "photo_url": "file:///C:/Users/ferna/Pictures/casa.jpg",
+    "photo_url": "https://raw.githubusercontent.com/vladimiroyin/jsonInmuebles/main/casa.jpg?token=ALOZRKTS3LCP2EVGGSNE56LAUQGOC",
     "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
     "price": 29.49,
     "isOnSale": true
