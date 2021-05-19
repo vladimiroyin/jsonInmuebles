@@ -15,23 +15,23 @@
   },
   {
     "name": "Terreno",
-    "photo_url": "https://raw.githubusercontent.com/vladimiroyin/jsonInmuebles/main/mansionloca.jpeg?token=ALOZRKX6TNU3AQZ7MVRZZLTAURUEA",
+    "photo_url": "https://raw.githubusercontent.com/vladimiroyin/jsonInmuebles/main/terreno.jpg?token=ALOZRKUNHKFK2QADJQ4SKELAUSEKY",
     "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
     "price": 2500000.00,
     "isOnSale": true
   },
   {
     "name": "Casa",
-    "photo_url": "https://raw.githubusercontent.com/vladimiroyin/jsonInmuebles/main/mansionloca.jpeg?token=ALOZRKX6TNU3AQZ7MVRZZLTAURUEA",
+    "photo_url": "https://raw.githubusercontent.com/vladimiroyin/jsonInmuebles/main/casita.jpg?token=ALOZRKQ3OXDLBRJHAJBAMYLAUSENE",
     "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
     "price": 2500000.00,
     "isOnSale": true
   },
   {
     "name": "Edificio de Oficinas",
-    "photo_url": "https://raw.githubusercontent.com/vladimiroyin/jsonInmuebles/main/mansionloca.jpeg?token=ALOZRKX6TNU3AQZ7MVRZZLTAURUEA",
+    "photo_url": "https://raw.githubusercontent.com/vladimiroyin/jsonInmuebles/main/edificio.jpg?token=ALOZRKWTUQEWHCOLCSNRRTLAUSEOS",
     "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
     "price": 2500000.00,
     "isOnSale": true
-  },
+  }
 ]
