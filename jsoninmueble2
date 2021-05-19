@@ -12,5 +12,26 @@
     "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
     "price": 2500000.00,
     "isOnSale": true
-  }
+  },
+  {
+    "name": "Terreno",
+    "photo_url": "https://raw.githubusercontent.com/vladimiroyin/jsonInmuebles/main/mansionloca.jpeg?token=ALOZRKX6TNU3AQZ7MVRZZLTAURUEA",
+    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "price": 2500000.00,
+    "isOnSale": true
+  },
+  {
+    "name": "Casa",
+    "photo_url": "https://raw.githubusercontent.com/vladimiroyin/jsonInmuebles/main/mansionloca.jpeg?token=ALOZRKX6TNU3AQZ7MVRZZLTAURUEA",
+    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "price": 2500000.00,
+    "isOnSale": true
+  },
+  {
+    "name": "Edificio de Oficinas",
+    "photo_url": "https://raw.githubusercontent.com/vladimiroyin/jsonInmuebles/main/mansionloca.jpeg?token=ALOZRKX6TNU3AQZ7MVRZZLTAURUEA",
+    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
+    "price": 2500000.00,
+    "isOnSale": true
+  },
 ]
